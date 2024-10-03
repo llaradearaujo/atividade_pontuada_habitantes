@@ -1,0 +1,9 @@
+
+ média salário: 200.0
+ maior idade do grupo: 20
+ menor idade do grupo: 20
+ quantia de mulheres com salario acima de R$5000: 0 
+ média salário: 300000.0
+ maior idade do grupo: 34
+ menor idade do grupo: 20
+ quantia de mulheres com salario acima de R$5000: 2 
